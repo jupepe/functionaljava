@@ -1,0 +1,5 @@
+Java Files class was introduced in Java 7
+Files class provide copy() method.
+Files class provides move() method in Java 7
+Java NIO Files class provides write() method
+Files class provides walkFileTree() method
